@@ -234,7 +234,7 @@ If you have suggestions for improving the dashboard, feel free to fork the repos
 
 # 📄 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
 ---
 
