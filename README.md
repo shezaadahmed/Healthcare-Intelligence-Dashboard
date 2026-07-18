@@ -1,5 +1,3 @@
-# Healthcare-Intelligence-Dashboard
-The Healthcare Intelligence Dashboard is an interactive data analytics and visualization platform designed to help healthcare organizations monitor key performance indicators (KPIs), analyze operational trends, and support data-driven decision-making. 
 # 🏥 Healthcare Intelligence Dashboard
 
 A comprehensive Business Intelligence (BI) solution designed to transform healthcare data into actionable insights through interactive dashboards, advanced analytics, and intuitive visualizations. This project enables healthcare administrators and decision-makers to monitor operational performance, identify trends, and make data-driven decisions that improve healthcare delivery.
