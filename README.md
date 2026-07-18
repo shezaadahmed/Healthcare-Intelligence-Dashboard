@@ -127,8 +127,6 @@ The dashboard utilizes healthcare datasets containing information such as:
 * Billing Information *(optional)*
 * Patient Outcome
 
-> **Note:** If using a public dataset, include its source and ensure compliance with its license. If using synthetic data, state that clearly.
-
 ---
 
 # 📊 Dashboard Components
