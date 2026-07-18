@@ -1,14 +1,12 @@
 # 🏥 Healthcare Intelligence Dashboard
 
-A comprehensive Business Intelligence (BI) solution designed to transform healthcare data into actionable insights through interactive dashboards, advanced analytics, and intuitive visualizations. This project enables healthcare administrators and decision-makers to monitor operational performance, identify trends, and make data-driven decisions that improve healthcare delivery.
+A comprehensive Business Intelligence (BI) solution designed to transform healthcare data into actionable insights through interactive dashboards, advanced analytics, and intuitive visualizations. This project enables healthcare administrators and decision-makers to monitor operational performance, identify trends, and make data-driven decisions that improve healthcare delivery. The dashboard transforms raw healthcare data into meaningful insights through dynamic visualizations and performance metrics. It enables stakeholders to track patient admissions, discharge rates, bed occupancy, treatment outcomes, departmental performance, resource utilization, and other critical healthcare indicators in real time.
 
 ---
 
 # 📌 Project Overview
 
-The **Healthcare Intelligence Dashboard** provides a centralized platform for analyzing healthcare data across multiple operational and clinical dimensions. By consolidating key performance indicators (KPIs), the dashboard helps stakeholders monitor hospital performance, optimize resource utilization, and improve patient outcomes.
-
-The dashboard is designed with an interactive interface, allowing users to filter, drill down, and explore healthcare metrics efficiently.
+The **Healthcare Intelligence Dashboard** provides a centralized platform for analyzing healthcare data across multiple operational and clinical dimensions. By consolidating key performance indicators (KPIs), the dashboard helps stakeholders monitor hospital performance, optimize resource utilization, and improve patient outcomes. The dashboard is designed with an interactive interface, allowing users to filter, drill down, and explore healthcare metrics efficiently.
 
 ---
 
