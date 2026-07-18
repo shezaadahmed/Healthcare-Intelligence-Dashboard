@@ -186,7 +186,8 @@ Add screenshots here after uploading them to the repository.
 Example:
 
 ```markdown
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/project-snapshot-1.png)
+![Dashboard Overview](Images/project-snapshot-2.png)
 ```
 
 ---
