@@ -158,8 +158,10 @@ Visualizes historical healthcare data to identify seasonal patterns and long-ter
 ## Prerequisites
 
 * Power BI Desktop
-* Microsoft Excel (optional)
-* SQL Server/MySQL *(if applicable)*
+* Microsoft Excel
+* Python Programming
+* SQL Server/MySQL
+* Windows 11 OS
 
 ## Installation
 
@@ -241,7 +243,7 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 Software Engineer | Data Analytics | Artificial Intelligence
 
-GitHub: https://github.com/shezadahmed
+GitHub: https://github.com/shezaadahmed
 
 LinkedIn: https://linkedin.com/in/shezadahmed
 
